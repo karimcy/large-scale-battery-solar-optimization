@@ -25,7 +25,7 @@ This application provides a powerful optimization framework for large-scale batt
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/large-scale-battery-solar-optimization.git
+git clone https://github.com/karimcy/large-scale-battery-solar-optimization.git
 cd large-scale-battery-solar-optimization
 ```
 
